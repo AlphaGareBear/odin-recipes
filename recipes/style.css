@@ -1,0 +1,11 @@
+* {
+    font-family: 'Times New Roman', Times, serif
+}
+
+#ingredients {
+    color: black;
+}
+
+.spice {
+    color: rgb(80, 40, 40);
+}
