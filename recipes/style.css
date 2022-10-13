@@ -1,11 +1,20 @@
 * {
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #ingredients {
     color: black;
+    font-weight: bold;
 }
 
 .spice {
     color: rgb(80, 40, 40);
+}
+
+.fresh {
+    color: rgb(40, 160, 40);
+}
+
+.lessfresh {
+    color: rgb(136, 114, 15)
 }
